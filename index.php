@@ -98,16 +98,19 @@
                                 </div>
                             </div>
                             <div class="wpo-about-icon-content">
-                                <h2>Planner of Your Perfect Wedding</h2>
-                                <p>It is a long established fact that a reader will be distracted by the readable
-                                    content of a page when looking at its layout. The point of using Lorem Ipsum is
-                                    that it has a more-or-less normal distribution of letters, as opposed to using
+                                <h2>We Are The Best Wedding Planner & Decor.</h2>
+                                <p>Loveme is a team of experienced professional photographers, cinematographers, and
+                                    photo-book experts who are dedicated to creating stunning, authentic stories of
+                                    people's lives. With a passion for capturing the essence of every event, no matter
+                                    how big or small, our team has the skills, resources, and creativity to design and
+                                    implement your dream event.
                                 </p>
                                 <p>
-                                    Content here, content here', making it look like readable English. Many desktop
-                                    publishing packages and web page editors now use Lorem Ipsum as their default
-                                    model text.</p>
-                                <a class="theme-btn-s3" href="about.html">More About</a>
+                                    Whether you're planning a wedding, engagement, or any other special event, let Love
+                                    Love help you create an unforgettable experience that you and your guests will
+                                    cherish forever. Contact us today to learn more about our services and to schedule a
+                                    consultation with one of our expert photographers or cinematographers.</p>
+                                <a class="theme-btn-s3" href="About">More About</a>
                             </div>
                         </div>
                     </div>
@@ -136,7 +139,7 @@
                                     <div class="s-icon">
                                         <i class="fi flaticon-gallery"></i>
                                     </div>
-                                    <a href="service-single.html">Photography</a>
+                                    <a href="#">Wedding Photography</a>
                                     <p>Quis ipsome suspendisse ultrices gravid. Risus commod viverra maescums.</p>
                                 </div>
                             </div>
@@ -147,7 +150,7 @@
                                     <div class="s-icon">
                                         <i class="fi flaticon-serving-dish"></i>
                                     </div>
-                                    <a href="service-single.html">Fine Dining</a>
+                                    <a href="#">Birthday Photography</a>
                                     <p>Quis ipsome suspendisse ultrices gravid. Risus commod viverra maescums.</p>
                                 </div>
                             </div>
@@ -158,7 +161,7 @@
                                     <div class="s-icon">
                                         <i class="fi flaticon-edit"></i>
                                     </div>
-                                    <a href="service-single.html">Wedding Registry</a>
+                                    <a href="#">Studio Photoshoot</a>
                                     <p>Quis ipsome suspendisse ultrices gravid. Risus commod viverra maescums.</p>
                                 </div>
                             </div>
@@ -169,7 +172,7 @@
                                     <div class="s-icon">
                                         <i class="fi flaticon-wedding"></i>
                                     </div>
-                                    <a href="service-single.html">Guest List</a>
+                                    <a href="#">Maternity Photography</a>
                                     <p>Quis ipsome suspendisse ultrices gravid. Risus commod viverra maescums.</p>
                                 </div>
                             </div>
@@ -180,7 +183,7 @@
                                     <div class="s-icon">
                                         <i class="fi flaticon-cake"></i>
                                     </div>
-                                    <a href="service-single.html">Perfect Cake</a>
+                                    <a href="#">Newborn Photography</a>
                                     <p>Quis ipsome suspendisse ultrices gravid. Risus commod viverra maescums.</p>
                                 </div>
                             </div>
@@ -191,7 +194,7 @@
                                     <div class="s-icon">
                                         <i class="fi flaticon-wedding-rings"></i>
                                     </div>
-                                    <a href="service-single.html">Wedding Ceremony</a>
+                                    <a href="#">Family Photoshoot</a>
                                     <p>Quis ipsome suspendisse ultrices gravid. Risus commod viverra maescums.</p>
                                 </div>
                             </div>
@@ -491,7 +494,6 @@
         </div>
 
         <!-- end wpo-cta-section -->
-
 
 
         <!-- start wpo-partners-section -->

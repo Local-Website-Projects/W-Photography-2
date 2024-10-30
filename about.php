@@ -8,7 +8,7 @@
     <meta name="author" content="wpOceans">
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
     <title> Photography - 2 FrogBID</title>
-    <?php include ('includes/css.php');?>
+    <?php include('includes/css.php'); ?>
 </head>
 
 <body>
@@ -16,12 +16,12 @@
 <!-- start page-wrapper -->
 <div class="page-wrapper">
     <!-- start preloader -->
-    <?php include ('includes/preloader.php');?>
+    <?php include('includes/preloader.php'); ?>
     <!-- end preloader -->
-    <?php include ('includes/header_top.php');?>
+    <?php include('includes/header_top.php'); ?>
 
     <!-- Start header -->
-    <?php include ('includes/header.php');?>
+    <?php include('includes/header.php'); ?>
     <!-- end of header -->
     <!-- start wpo-page-title -->
     <section class="wpo-page-title">
@@ -64,20 +64,17 @@
                             </div>
                         </div>
                         <div class="wpo-about-icon-content">
-                            <h2>Planner of Your Perfect Wedding</h2>
-                            <p>It is a long established fact that a reader will be distracted by the readable
-                                content of a page when looking at its layout. The point of using Lorem Ipsum is
-                                that it has a more-or-less normal distribution of letters, as opposed to using
+                            <h2>We Are The Best Wedding Planner & Decor.</h2>
+                            <p>Loveme is a team of experienced professional photographers, cinematographers, and
+                                photo-book experts who are dedicated to creating stunning, authentic stories of people's
+                                lives. With a passion for capturing the essence of every event, no matter how big or
+                                small, our team has the skills, resources, and creativity to design and implement your
+                                dream event.
                             </p>
-                            <p>
-                                Content here, content here', making it look like readable English. Many desktop
-                                publishing packages and web page editors now use Lorem Ipsum as their default
-                                model text.</p>
-                            <ul>
-                                <li>Going through the cites of the word in classical.</li>
-                                <li>There are many variations of passages.</li>
-                                <li>Making it look like readable and spoken English.</li>
-                            </ul>
+                            <p>Whether you're planning a wedding, engagement, or any other special event, let Love Love
+                                help you create an unforgettable experience that you and your guests will cherish
+                                forever. Contact us today to learn more about our services and to schedule a
+                                consultation with one of our expert photographers or cinematographers.</p>
                         </div>
                     </div>
                 </div>
@@ -98,7 +95,7 @@
                             <div class="s-icon">
                                 <i class="fi flaticon-gallery"></i>
                             </div>
-                            <a href="service-single.html">Photography</a>
+                            <a href="#">Wedding Photography</a>
                         </div>
                     </div>
                 </div>
@@ -110,7 +107,7 @@
                             <div class="s-icon">
                                 <i class="fi flaticon-serving-dish"></i>
                             </div>
-                            <a href="service-single.html">Fine Dining</a>
+                            <a href="#">Birthday Photography</a>
                         </div>
                     </div>
                 </div>
@@ -122,7 +119,7 @@
                             <div class="s-icon">
                                 <i class="fi flaticon-edit"></i>
                             </div>
-                            <a href="service-single.html">Wedding Registry</a>
+                            <a href="#">Studio Photoshoot</a>
                         </div>
                     </div>
                 </div>
@@ -134,7 +131,7 @@
                             <div class="s-icon">
                                 <i class="fi flaticon-wedding"></i>
                             </div>
-                            <a href="service-single.html">Guest List</a>
+                            <a href="#">Maternity Photography</a>
                         </div>
                     </div>
                 </div>
@@ -146,7 +143,7 @@
                             <div class="s-icon">
                                 <i class="fi flaticon-cake"></i>
                             </div>
-                            <a href="service-single.html">Perfect Cake</a>
+                            <a href="#">Newborn Photography</a>
                         </div>
                     </div>
                 </div>
@@ -158,7 +155,7 @@
                             <div class="s-icon">
                                 <i class="fi flaticon-wedding-rings"></i>
                             </div>
-                            <a href="service-single.html">Wedding Ceremony</a>
+                            <a href="#">Family Photoshoot</a>
                         </div>
                     </div>
                 </div>
@@ -283,98 +280,7 @@
     <!-- end wpo-portfolio-section -->
 
     <!-- start wpo-pricing-section -->
-    <section class="wpo-pricing-section section-padding pt-0">
-        <div class="container">
-            <div class="row">
-                <div class="wpo-section-title">
-                    <span>Pricing</span>
-                    <h2>Wedding Packages</h2>
-                    <div class="section-title-img">
-                        <img src="assets/images/section-title.png" alt="">
-                    </div>
-                </div>
-            </div>
-            <div class="wpo-pricing-wrap">
-                <div class="row">
-                    <div class="col col-lg-4 col-md-6 col-12">
-                        <div class="wpo-pricing-item">
-                            <div class="wpo-pricing-top">
-                                <div class="wpo-pricing-img">
-                                    <img src="assets/images/pricing/1.png" alt="">
-                                </div>
-                                <div class="wpo-pricing-text">
-                                    <h4>Basic Package</h4>
-                                    <h2>$250<span>/Monthly</span></h2>
-                                </div>
-                            </div>
-                            <div class="wpo-pricing-bottom">
-                                <div class="wpo-pricing-bottom-text">
-                                    <ul>
-                                        <li>Stylish makeup for bride.</li>
-                                        <li>Top label arrengement</li>
-                                        <li>Amazing meal & breakfast</li>
-                                        <li>Manicure & Pedicure</li>
-                                        <li>Full body Polish</li>
-                                    </ul>
-                                    <a href="pricing.html">Choose Package</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col col-lg-4 col-md-6 col-12">
-                        <div class="wpo-pricing-item">
-                            <div class="wpo-pricing-top">
-                                <div class="wpo-pricing-img">
-                                    <img src="assets/images/pricing/2.png" alt="">
-                                </div>
-                                <div class="wpo-pricing-text">
-                                    <h4>Standard Package</h4>
-                                    <h2>$550<span>/Monthly</span></h2>
-                                </div>
-                            </div>
-                            <div class="wpo-pricing-bottom">
-                                <div class="wpo-pricing-bottom-text">
-                                    <ul>
-                                        <li>Stylish makeup for bride.</li>
-                                        <li>Top label arrengement</li>
-                                        <li>Amazing meal & breakfast</li>
-                                        <li>Manicure & Pedicure</li>
-                                        <li>Full body Polish</li>
-                                    </ul>
-                                    <a href="pricing.html">Choose Package</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col col-lg-4 col-md-6 col-12">
-                        <div class="wpo-pricing-item">
-                            <div class="wpo-pricing-top">
-                                <div class="wpo-pricing-img">
-                                    <img src="assets/images/pricing/3.png" alt="">
-                                </div>
-                                <div class="wpo-pricing-text">
-                                    <h4>Luxary Package</h4>
-                                    <h2>$880<span>/Monthly</span></h2>
-                                </div>
-                            </div>
-                            <div class="wpo-pricing-bottom">
-                                <div class="wpo-pricing-bottom-text">
-                                    <ul>
-                                        <li>Stylish makeup for bride.</li>
-                                        <li>Top label arrengement</li>
-                                        <li>Amazing meal & breakfast</li>
-                                        <li>Manicure & Pedicure</li>
-                                        <li>Full body Polish</li>
-                                    </ul>
-                                    <a href="pricing.html">Choose Package</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include('includes/pricing.php'); ?>
     <!-- start wpo-pricing-section -->
     <!-- start wpo-team-section -->
     <section class="wpo-team-section section-padding pt-0">
@@ -465,7 +371,7 @@
     </section>
     <!-- end wpo-team-section -->
     <!-- start of wpo-site-footer-section -->
-    <?php include ('includes/footer.php');?>
+    <?php include('includes/footer.php'); ?>
     <!-- end of wpo-site-footer-section -->
 
 
@@ -474,7 +380,7 @@
 
 <!-- All JavaScript files
 ================================================== -->
-<?php include ('includes/js.php');?>
+<?php include('includes/js.php'); ?>
 </body>
 
 </html>
